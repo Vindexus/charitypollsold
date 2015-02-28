@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150228124315) do
+ActiveRecord::Schema.define(version: 20150228223527) do
 
   create_table "answers", force: :cascade do |t|
     t.string   "answer"
@@ -36,6 +36,7 @@ ActiveRecord::Schema.define(version: 20150228124315) do
     t.date     "closed_date"
     t.datetime "created_at",  null: false
     t.datetime "updated_at",  null: false
+    t.integer  "charity_id"
   end
 
   create_table "users", force: :cascade do |t|
@@ -56,5 +57,11 @@ ActiveRecord::Schema.define(version: 20150228124315) do
 
   add_index "users", ["email"], name: "index_users_on_email", unique: true
   add_index "users", ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
+
+  create_table "votes", force: :cascade do |t|
+    t.integer "answer_id"
+    t.integer "user_id"
+    t.boolean "verified"
+  end
 
 end

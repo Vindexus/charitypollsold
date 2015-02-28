@@ -2,6 +2,7 @@ class Poll < ActiveRecord::Base
   attr_accessor :param_answers, :charity_id, :text_answers
   belongs_to :charity
   has_many :answers
+  has_many :votes
   validate :has_answers
   validates_presence_of :question
 

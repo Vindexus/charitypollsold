@@ -1,5 +1,5 @@
 class PollsController < ApplicationController
-  before_action :set_poll, only: [:show, :edit, :update, :destroy]
+  before_action :set_poll, only: [:show, :edit, :update, :destroy, :submit_vote]
 
   # GET /polls
   # GET /polls.json
@@ -10,6 +10,7 @@ class PollsController < ApplicationController
   # GET /polls/1
   # GET /polls/1.json
   def show
+    @answer = @poll.answers.build
   end
 
   # GET /polls/new
@@ -20,6 +21,20 @@ class PollsController < ApplicationController
 
   # GET /polls/1/edit
   def edit
+  end
+
+  def submit_vote
+    @vote = Vote.new(params[:vote])
+    @vote.poll_id = @poll.id
+    respond_to do |format|
+      if @vote.save
+        format.html { redirect_to @poll, notice: 'Your vote as added' }
+        format.json { render :show, status: :created, location: @poll }
+      else
+        format.html { render :show }
+        format.json { render json: @vote.errors, status: :unprocessable_entity }
+      end
+    end
   end
 
   # POST /polls

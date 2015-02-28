@@ -1,4 +1,4 @@
 %h1= @poll.question
-%ul.options
-	-@poll.answers.each do |a|
-		%li= a.answer
+=simple_form_for @answer, url: submit_vote_path(@poll) do |f|
+	=render 'votes/answer_fields', {poll: @poll}
+	=f.button :button, "Vote"

@@ -7,6 +7,8 @@ Rails.application.routes.draw do
 
   get 'welcome/faq'
 
+  post 'polls/submitvote/:id' => 'polls#submit_vote', as: 'submit_vote'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

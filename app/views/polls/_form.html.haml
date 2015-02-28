@@ -1,13 +1,6 @@
 = simple_form_for(@poll) do |f|
 	= render 'shared/error_messages', object: f.object
 	= f.input :question
-	= params
-	%hr
-	= @answer.to_s
-
-	-f.fields_for :answer do |ff|
-		= ff.input :text
-
 	.answers
 		-i = 0
 		-@text_answers.each do |t|
