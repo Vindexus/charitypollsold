@@ -1,0 +1,4 @@
+%h1= @poll.question
+%ul.options
+	-@poll.answers.each do |a|
+		%li= a.answer

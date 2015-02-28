@@ -15,6 +15,7 @@ class PollsController < ApplicationController
   # GET /polls/new
   def new
     @poll = Poll.new
+    @text_answers = ["","","",""]
   end
 
   # GET /polls/1/edit
@@ -25,12 +26,14 @@ class PollsController < ApplicationController
   # POST /polls.json
   def create
     @poll = Poll.new(poll_params)
+    @poll.param_answers = params[:text_answers]
 
     respond_to do |format|
-      if @poll.save
+      if @poll.save && @poll.save_text_answers
         format.html { redirect_to @poll, notice: 'Poll was successfully created.' }
         format.json { render :show, status: :created, location: @poll }
       else
+        @text_answers = @poll.text_answers
         format.html { render :new }
         format.json { render json: @poll.errors, status: :unprocessable_entity }
       end
