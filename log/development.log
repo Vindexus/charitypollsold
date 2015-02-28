@@ -1,0 +1,3141 @@
+
+
+Started GET "/" for ::1 at 2015-02-27 17:13:47 -0800
+Processing by Rails::WelcomeController#index as HTML
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/railties-4.2.0/lib/rails/templates/rails/welcome/index.html.erb (3.0ms)
+Completed 200 OK in 26ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 17:17:35 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (3.0ms)
+Completed 200 OK in 681ms (Views: 670.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-27 17:17:36 -0800
+
+
+Started GET "/assets/welcome-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 17:17:36 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 17:17:36 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 17:17:36 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 17:17:36 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 17:17:36 -0800
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-02-27 17:17:36 -0800
+
+
+Started GET "/" for ::1 at 2015-02-27 17:17:55 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 47ms (Views: 47.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 17:17:55 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 17:17:55 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 17:17:55 -0800
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-27 17:17:55 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 17:17:55 -0800
+
+
+Started GET "/assets/welcome-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 17:17:55 -0800
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-02-27 17:17:55 -0800
+
+
+Started GET "/" for ::1 at 2015-02-27 20:40:16 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (4.0ms)
+Completed 200 OK in 170ms (Views: 158.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-5266d2988799ecc8fe6e81eaab412e7d.css?body=1" for ::1 at 2015-02-27 20:40:16 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 127.0.0.1 at 2015-02-27 20:40:16 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 20:40:16 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 20:40:16 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 20:40:16 -0800
+
+
+Started GET "/assets/welcome-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 20:40:16 -0800
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-02-27 20:40:16 -0800
+
+
+Started GET "/" for ::1 at 2015-02-27 20:40:50 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 61ms (Views: 60.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 20:40:50 -0800
+
+
+Started GET "/assets/welcome-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 20:40:50 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 20:40:50 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 20:40:51 -0800
+
+
+Started GET "/assets/application-d3bdc32dd51131a983745afaca6a2f50.css?body=1" for ::1 at 2015-02-27 20:40:51 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 20:40:51 -0800
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-02-27 20:40:51 -0800
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-02-27 20:40:51 -0800
+
+
+Started GET "/" for ::1 at 2015-02-27 20:40:52 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 53ms (Views: 53.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 20:40:52 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 20:40:52 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 20:40:52 -0800
+
+
+Started GET "/assets/application-d3bdc32dd51131a983745afaca6a2f50.css?body=1" for 127.0.0.1 at 2015-02-27 20:40:52 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 20:40:52 -0800
+
+
+Started GET "/assets/welcome-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 20:40:52 -0800
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-02-27 20:40:52 -0800
+
+
+Started GET "/assets/bootstrap" for ::1 at 2015-02-27 20:40:52 -0800
+
+
+Started GET "/" for ::1 at 2015-02-27 20:41:25 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 2736ms (Views: 2735.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 20:41:28 -0800
+
+
+Started GET "/assets/application-30801c4e01675ca9daa8b12e7f064f6c.css?body=1" for ::1 at 2015-02-27 20:41:28 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for 127.0.0.1 at 2015-02-27 20:41:28 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 20:41:28 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 20:41:28 -0800
+
+
+Started GET "/assets/welcome-09753107ca5cbbde0e0de7524c192e2d.css?body=1" for ::1 at 2015-02-27 20:41:28 -0800
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-02-27 20:41:28 -0800
+
+
+Started GET "/" for ::1 at 2015-02-27 20:42:54 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 9ms
+
+ActionView::Template::Error (Inconsistent indentation: "\t  " used for indentation, but the rest of the document was indented using 1 tab.):
+    1: <!DOCTYPE html>
+    2: %html
+    3: 	%head
+    4: 	  <title>CharityPolls.com</title>
+    5: 	  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6: 	  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7: 	  <%= csrf_meta_tags %>
+  app/views/layouts/application.html.haml:4
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (24.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 20:42:55 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 4ms
+
+ActionView::Template::Error (Inconsistent indentation: "\t  " used for indentation, but the rest of the document was indented using 1 tab.):
+    1: <!DOCTYPE html>
+    2: %html
+    3: 	%head
+    4: 	  <title>CharityPolls.com</title>
+    5: 	  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    6: 	  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    7: 	  <%= csrf_meta_tags %>
+  app/views/layouts/application.html.haml:4
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (23.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 20:43:33 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 20:43:49 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 1314ms (Views: 1314.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 20:43:50 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 20:43:50 -0800
+
+
+Started GET "/assets/application-fdf28fa3000ab4386f8285aaabbf2a13.css?body=1" for ::1 at 2015-02-27 20:43:50 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 20:43:50 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 20:43:50 -0800
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-02-27 20:43:50 -0800
+
+
+Started GET "/" for ::1 at 2015-02-27 20:45:33 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 34ms (Views: 34.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 20:45:34 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 20:45:34 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 20:45:34 -0800
+
+
+Started GET "/assets/application-fdf28fa3000ab4386f8285aaabbf2a13.css?body=1" for ::1 at 2015-02-27 20:45:34 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 20:45:34 -0800
+
+
+Started GET "/assets/application-001948a807d6467a657420955d9f0c1c.js?body=1" for ::1 at 2015-02-27 20:45:34 -0800
+
+
+Started GET "/" for ::1 at 2015-02-27 20:55:53 -0800
+
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+	bin/rake db:migrate RAILS_ENV=development
+
+):
+  activerecord (4.2.0) lib/active_record/migration.rb:393:in `check_pending!'
+  activerecord (4.2.0) lib/active_record/migration.rb:374:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:18:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (22.0ms)
+  [1m[36m (101.0ms)[0m  [1mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL) [0m
+  [1m[35m (0.0ms)[0m  select sqlite_version(*)
+  [1m[36m (91.0ms)[0m  [1mCREATE UNIQUE INDEX "unique_schema_migrations" ON "schema_migrations" ("version")[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.0ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Migrating to CreatePolls (20150228044851)
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (1.0ms)[0m  CREATE TABLE "polls" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "question" varchar, "is_closed" boolean, "closed_date" date, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) 
+  [1m[36mSQL (0.0ms)[0m  [1mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20150228044851"]]
+  [1m[35m (71.0ms)[0m  commit transaction
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+
+
+Started GET "/" for ::1 at 2015-02-27 20:56:09 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 66299ms
+
+ActionView::Template::Error (undefined local variable or method `bootstrap_flash' for #<#<Class:0x61c44c0>:0x61d95c8>):
+    36:     .container
+    37:       .row
+    38:         .col-lg-9
+    39:           = bootstrap_flash
+    40:           = yield
+    41:         .col-lg-3
+    42:           .well.sidebar-nav
+  app/views/layouts/application.html.haml:39:in `_app_views_layouts_application_html_haml__17212534_51306972'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (47.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 20:58:13 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 64682ms
+
+ActionView::Template::Error (undefined local variable or method `bootstrap_flash' for #<#<Class:0x61c44c0>:0x598deb0>):
+    36:     .container
+    37:       .row
+    38:         .col-lg-9
+    39:           = bootstrap_flash
+    40:           = yield
+    41:         .col-lg-3
+    42:           .well.sidebar-nav
+  app/views/layouts/application.html.haml:39:in `_app_views_layouts_application_html_haml__17212534_51306972'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (23.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 20:59:20 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 120ms
+
+ActionView::Template::Error (undefined local variable or method `bootstrap_flash' for #<#<Class:0x61c44c0>:0x56f0730>):
+    36:     .container
+    37:       .row
+    38:         .col-lg-9
+    39:           = bootstrap_flash
+    40:           = yield
+    41:         .col-lg-3
+    42:           .well.sidebar-nav
+  app/views/layouts/application.html.haml:39:in `_app_views_layouts_application_html_haml__17212534_51306972'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (26.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (49.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 22:01:08 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (3.0ms)
+Completed 500 Internal Server Error in 66510ms
+
+ActionView::Template::Error (undefined local variable or method `bootstrap_flash' for #<#<Class:0x60097b0>:0x600e808>):
+    36:     .container
+    37:       .row
+    38:         .col-lg-9
+    39:           = bootstrap_flash
+    40:           = yield
+    41:         .col-lg-3
+    42:           .well.sidebar-nav
+  app/views/layouts/application.html.haml:39:in `_app_views_layouts_application_html_haml___51432300_43689036'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (24.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 22:09:39 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (3.0ms)
+Completed 500 Internal Server Error in 64721ms
+
+ActionView::Template::Error (undefined local variable or method `bootstrap_flash' for #<#<Class:0x5e7a5a0>:0x5e7f568>):
+    36:     .container
+    37:       .row
+    38:         .col-lg-9
+    39:           = bootstrap_flash
+    40:           = yield
+    41:         .col-lg-3
+    42:           .well.sidebar-nav
+  app/views/layouts/application.html.haml:39:in `_app_views_layouts_application_html_haml__549385698_43313712'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (24.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 22:10:45 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (1.0ms)
+Completed 500 Internal Server Error in 135ms
+
+ActionView::Template::Error (undefined local variable or method `bootstrap_flash' for #<#<Class:0x5e7a5a0>:0x53025d8>):
+    36:     .container
+    37:       .row
+    38:         .col-lg-9
+    39:           = bootstrap_flash
+    40:           = yield
+    41:         .col-lg-3
+    42:           .well.sidebar-nav
+  app/views/layouts/application.html.haml:39:in `_app_views_layouts_application_html_haml__549385698_43313712'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (23.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 22:16:37 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 64536ms
+
+ActionView::Template::Error (undefined local variable or method `bootstrap_flash' for #<#<Class:0x5e7a5a0>:0x56b6ce0>):
+    36:     .container
+    37:       .row
+    38:         .col-lg-9
+    39:           = bootstrap_flash
+    40:           = yield
+    41:         .col-lg-3
+    42:           .well.sidebar-nav
+  app/views/layouts/application.html.haml:39:in `_app_views_layouts_application_html_haml__549385698_43313712'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (63.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 22:19:52 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 64525ms (Views: 64523.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:20:57 -0800
+
+
+Started GET "/assets/scaffolds-9a2837982be147764c24768396252db8.css?body=1" for ::1 at 2015-02-27 22:20:57 -0800
+
+
+Started GET "/assets/application-fb86d776c747d3371db48d6848286770.css?body=1" for ::1 at 2015-02-27 22:20:57 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 22:20:57 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:20:57 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:20:57 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:20:57 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:20:57 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 22:20:57 -0800
+
+
+Started GET "/images/favicon.ico" for ::1 at 2015-02-27 22:20:57 -0800
+
+ActionController::RoutingError (No route matches [GET] "/images/favicon.ico"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (5.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (39.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 22:21:26 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 161ms
+
+ActionView::Template::Error (undefined local variable or method `app_name' for #<#<Class:0x5dd1220>:0x56bccb0>):
+    25:           %span.icon-bar
+    26:           %span.icon-bar
+    27:           %span.icon-bar
+    28:         %a.navbar-brand(href="#")= app_name
+    29:         .navbar-collapse.collapse.navbar-responsive-collapse
+    30:           %ul.nav.navbar-nav
+    31:             %li= link_to "Link 1", "/path1"
+  app/views/layouts/application.html.haml:28:in `_app_views_layouts_application_html_haml__549385698_41210784'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (46.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 22:21:57 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error (uninitialized constant ActionView::CompiledTemplates::CharityPolls):
+    4:     %meta(charset="utf-8")
+    5:     %meta(http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1")
+    6:     %meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    7:     %title= content_for?(:title) ? yield(:title) : CharityPolls.com
+    8:     = csrf_meta_tags
+    9:     = stylesheet_link_tag "application", :media => "all"
+   10:     = favicon_link_tag 'apple-touch-icon-144x144-precomposed.png', :rel => 'apple-touch-icon-precomposed', :type => 'image/png', :sizes => '144x144'
+  app/views/layouts/application.html.haml:7:in `_app_views_layouts_application_html_haml__549385698_45637620'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (23.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 22:22:13 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 64354ms (Views: 64353.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:23:17 -0800
+
+
+Started GET "/assets/scaffolds-9a2837982be147764c24768396252db8.css?body=1" for ::1 at 2015-02-27 22:23:17 -0800
+
+
+Started GET "/assets/application-fb86d776c747d3371db48d6848286770.css?body=1" for ::1 at 2015-02-27 22:23:18 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 22:23:18 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:23:18 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:23:18 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:23:18 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:23:18 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 22:23:18 -0800
+
+
+Started GET "/" for ::1 at 2015-02-27 22:23:32 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 138ms (Views: 137.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:23:33 -0800
+
+
+Started GET "/assets/scaffolds-9a2837982be147764c24768396252db8.css?body=1" for ::1 at 2015-02-27 22:23:33 -0800
+
+
+Started GET "/assets/application-fb86d776c747d3371db48d6848286770.css?body=1" for ::1 at 2015-02-27 22:23:33 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 22:23:33 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:23:33 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:23:33 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:23:33 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:23:33 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for 127.0.0.1 at 2015-02-27 22:23:33 -0800
+
+
+Started GET "/" for ::1 at 2015-02-27 22:23:45 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 141ms (Views: 141.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:23:45 -0800
+
+
+Started GET "/assets/application-fb86d776c747d3371db48d6848286770.css?body=1" for ::1 at 2015-02-27 22:23:45 -0800
+
+
+Started GET "/assets/scaffolds-9a2837982be147764c24768396252db8.css?body=1" for ::1 at 2015-02-27 22:23:45 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 22:23:45 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:23:45 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:23:45 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:23:45 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:23:45 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 22:23:45 -0800
+
+
+Started GET "/" for ::1 at 2015-02-27 22:24:08 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 64559ms (Views: 64557.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 22:25:13 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (0.0ms)
+Completed 200 OK in 132ms (Views: 132.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:25:13 -0800
+
+
+Started GET "/assets/application-fb86d776c747d3371db48d6848286770.css?body=1" for ::1 at 2015-02-27 22:25:13 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 22:25:13 -0800
+
+
+Started GET "/assets/scaffolds-9a2837982be147764c24768396252db8.css?body=1" for ::1 at 2015-02-27 22:25:13 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:25:13 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:25:13 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:25:13 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:25:13 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 22:25:13 -0800
+
+
+Started GET "/polls" for ::1 at 2015-02-27 22:25:15 -0800
+Processing by PollsController#index as HTML
+  [1m[35mPoll Load (1.0ms)[0m  SELECT "polls".* FROM "polls"
+  Rendered polls/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 132ms (Views: 129.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:25:21 -0800
+
+
+Started GET "/assets/scaffolds-9a2837982be147764c24768396252db8.css?body=1" for ::1 at 2015-02-27 22:25:21 -0800
+
+
+Started GET "/assets/application-fb86d776c747d3371db48d6848286770.css?body=1" for ::1 at 2015-02-27 22:25:21 -0800
+
+
+Started GET "/polls" for ::1 at 2015-02-27 22:25:54 -0800
+Processing by PollsController#index as HTML
+  [1m[36mPoll Load (0.0ms)[0m  [1mSELECT "polls".* FROM "polls"[0m
+  Rendered polls/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 65724ms (Views: 65723.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-97cc40bdf5f89e2f54620879568e605d.css?body=1" for ::1 at 2015-02-27 22:26:59 -0800
+
+
+Started GET "/assets/scaffolds-97b3d93db03dd639a0e8e7947504cfbb.css?body=1" for ::1 at 2015-02-27 22:26:59 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:26:59 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:26:59 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 22:26:59 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:26:59 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:26:59 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:26:59 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 22:26:59 -0800
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:29:23 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.erb (36.0ms)
+  Rendered polls/new.html.erb within layouts/application (38.0ms)
+Completed 200 OK in 66527ms (Views: 66522.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:30:29 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.erb (2.0ms)
+  Rendered polls/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 141ms (Views: 140.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/polls/new" for 127.0.0.1 at 2015-02-27 22:30:29 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.erb (2.0ms)
+  Rendered polls/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 140ms (Views: 139.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:30:29 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.erb (3.0ms)
+  Rendered polls/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 142ms (Views: 142.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:30:30 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for 127.0.0.1 at 2015-02-27 22:30:30 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:30:30 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:30:30 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:30:30 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:30:30 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 22:30:30 -0800
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:33:54 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (119.0ms)
+  Rendered polls/new.html.erb within layouts/application (127.0ms)
+Completed 200 OK in 64912ms (Views: 64896.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:35:26 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (4.0ms)
+  Rendered polls/new.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 137ms (Views: 137.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:35:26 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 22:35:26 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:35:26 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:35:26 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:35:26 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:35:26 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 22:35:26 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:35:29 -0800
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:35:58 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (4.0ms)
+  Rendered polls/new.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 64435ms (Views: 64433.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:37:02 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (3.0ms)
+  Rendered polls/new.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 133ms (Views: 132.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:37:03 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 22:37:03 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:37:03 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:37:03 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:37:03 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:37:03 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for 127.0.0.1 at 2015-02-27 22:37:03 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:39:30 -0800
+
+
+Started POST "/polls" for ::1 at 2015-02-27 22:39:40 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"FZ+8U10kWCxCIw9bGywiM03Enl/s9t8uLOOWWgZX0W8wPlgu4laxXQDhN0sfFh9b0QN6xT0/FWuuhKp1YkuXJg==", "poll"=>{"question"=>"What class should I play?"}, "button"=>""}
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36mSQL (0.0ms)[0m  [1mINSERT INTO "polls" ("question", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["question", "What class should I play?"], ["created_at", "2015-02-28 06:39:40.521520"], ["updated_at", "2015-02-28 06:39:40.521520"]]
+  [1m[35m (95.0ms)[0m  commit transaction
+Redirected to http://localhost:2000/polls/1
+Completed 302 Found in 103ms (ActiveRecord: 95.0ms)
+
+
+Started GET "/polls/1" for ::1 at 2015-02-27 22:39:40 -0800
+Processing by PollsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPoll Load (1.0ms)[0m  [1mSELECT  "polls".* FROM "polls" WHERE "polls"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered polls/show.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 65716ms (Views: 65706.8ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-27 22:40:46 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (1.0ms)
+Completed 200 OK in 143ms (Views: 143.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-27 22:40:46 -0800
+
+
+Started GET "/polls" for ::1 at 2015-02-27 22:41:09 -0800
+Processing by PollsController#index as HTML
+  [1m[35mPoll Load (0.0ms)[0m  SELECT "polls".* FROM "polls"
+  Rendered polls/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 127ms (Views: 126.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:41:13 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (10.0ms)
+  Rendered polls/new.html.erb within layouts/application (12.0ms)
+Completed 500 Internal Server Error in 16ms
+
+ActionView::Template::Error ({:name=>"answer[1..4]", :label=>"1..4."} is not a symbol):
+    2: 	= f.input :question
+    3: 
+    4: 	-[1..4].each do |i|
+    5: 		= f.input name: "answer[#{i}]", label: "#{i}."
+    6: 
+    7: 	= f.button :button
+  app/views/polls/_form.html.haml:5:in `block (2 levels) in _app_views_polls__form_html_haml___730577237_44397036'
+  app/views/polls/_form.html.haml:4:in `each'
+  app/views/polls/_form.html.haml:4:in `block in _app_views_polls__form_html_haml___730577237_44397036'
+  app/views/polls/_form.html.haml:1:in `_app_views_polls__form_html_haml___730577237_44397036'
+  app/views/polls/new.html.erb:3:in `_app_views_polls_new_html_erb___346953003_40892232'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (24.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:41:13 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (6.0ms)
+  Rendered polls/new.html.erb within layouts/application (7.0ms)
+Completed 500 Internal Server Error in 10ms
+
+ActionView::Template::Error ({:name=>"answer[1..4]", :label=>"1..4."} is not a symbol):
+    2: 	= f.input :question
+    3: 
+    4: 	-[1..4].each do |i|
+    5: 		= f.input name: "answer[#{i}]", label: "#{i}."
+    6: 
+    7: 	= f.button :button
+  app/views/polls/_form.html.haml:5:in `block (2 levels) in _app_views_polls__form_html_haml___730577237_44789280'
+  app/views/polls/_form.html.haml:4:in `each'
+  app/views/polls/_form.html.haml:4:in `block in _app_views_polls__form_html_haml___730577237_44789280'
+  app/views/polls/_form.html.haml:1:in `_app_views_polls__form_html_haml___730577237_44789280'
+  app/views/polls/new.html.erb:3:in `_app_views_polls_new_html_erb___346953003_50535972'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (25.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:43:32 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (7.0ms)
+  Rendered polls/new.html.erb within layouts/application (8.0ms)
+Completed 500 Internal Server Error in 12ms
+
+ActionView::Template::Error (undefined method `answer' for #<Poll:0x573e9e8>):
+    2: 	= f.input :question
+    3: 
+    4: 	-[1..4].each do |i|
+    5: 		= f.input :answer, multiple: true, label: "#{i}."
+    6: 
+    7: 	= f.button :button
+  app/views/polls/_form.html.haml:5:in `block (2 levels) in _app_views_polls__form_html_haml___730577237_50039892'
+  app/views/polls/_form.html.haml:4:in `each'
+  app/views/polls/_form.html.haml:4:in `block in _app_views_polls__form_html_haml___730577237_50039892'
+  app/views/polls/_form.html.haml:1:in `_app_views_polls__form_html_haml___730577237_50039892'
+  app/views/polls/new.html.erb:3:in `_app_views_polls_new_html_erb___346953003_50535972'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (25.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:43:43 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (8.0ms)
+  Rendered polls/new.html.erb within layouts/application (10.0ms)
+Completed 500 Internal Server Error in 15ms
+
+ActionView::Template::Error (undefined method `answer' for #<Poll:0x53c08e0>):
+    2: 	= f.input :question
+    3: 
+    4: 	-[1..4].each do |i|
+    5: 		= f.input "answer", multiple: true, label: "#{i}."
+    6: 
+    7: 	= f.button :button
+  app/views/polls/_form.html.haml:5:in `block (2 levels) in _app_views_polls__form_html_haml___730577237_49864716'
+  app/views/polls/_form.html.haml:4:in `each'
+  app/views/polls/_form.html.haml:4:in `block in _app_views_polls__form_html_haml___730577237_49864716'
+  app/views/polls/_form.html.haml:1:in `_app_views_polls__form_html_haml___730577237_49864716'
+  app/views/polls/new.html.erb:3:in `_app_views_polls_new_html_erb___346953003_50535972'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (25.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:44:38 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (6.0ms)
+  Rendered polls/new.html.erb within layouts/application (7.0ms)
+Completed 500 Internal Server Error in 11ms
+
+ActionView::Template::Error ({:name=>"answer", :multiple=>true, :label=>"1..4."} is not a symbol):
+    2: 	= f.input :question
+    3: 
+    4: 	-[1..4].each do |i|
+    5: 		= f.input name: "answer", multiple: true, label: "#{i}."
+    6: 
+    7: 	= f.button :button
+  app/views/polls/_form.html.haml:5:in `block (2 levels) in _app_views_polls__form_html_haml___730577237_50269956'
+  app/views/polls/_form.html.haml:4:in `each'
+  app/views/polls/_form.html.haml:4:in `block in _app_views_polls__form_html_haml___730577237_50269956'
+  app/views/polls/_form.html.haml:1:in `_app_views_polls__form_html_haml___730577237_50269956'
+  app/views/polls/new.html.erb:3:in `_app_views_polls_new_html_erb___346953003_50535972'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (24.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:47:12 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (10.0ms)
+  Rendered polls/new.html.erb within layouts/application (11.0ms)
+Completed 500 Internal Server Error in 15ms
+
+ActionView::Template::Error (No input found for fake):
+    2: 	= f.input :question
+    3: 
+    4: 	-[1..4].each do |i|
+    5: 		= f.input :answer, multiple: true, label: "#{i}.", as: "fake"
+    6: 
+    7: 	= f.button :button
+  app/views/polls/_form.html.haml:5:in `block (2 levels) in _app_views_polls__form_html_haml___730577237_50285652'
+  app/views/polls/_form.html.haml:4:in `each'
+  app/views/polls/_form.html.haml:4:in `block in _app_views_polls__form_html_haml___730577237_50285652'
+  app/views/polls/_form.html.haml:1:in `_app_views_polls__form_html_haml___730577237_50285652'
+  app/views/polls/new.html.erb:3:in `_app_views_polls_new_html_erb___346953003_50535972'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (25.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:49:35 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (108.0ms)
+  Rendered polls/new.html.erb within layouts/application (116.0ms)
+Completed 200 OK in 64987ms (Views: 64971.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:50:41 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 22:50:41 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:50:41 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:50:41 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:50:41 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:50:41 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for 127.0.0.1 at 2015-02-27 22:50:41 -0800
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:55:41 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (7.0ms)
+  Rendered polls/new.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 64869ms (Views: 64867.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:56:46 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (7.0ms)
+  Rendered polls/new.html.erb within layouts/application (29.0ms)
+Completed 200 OK in 157ms (Views: 156.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-27 22:56:46 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (7.0ms)
+  Rendered polls/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 137ms (Views: 136.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-27 22:56:46 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-27 22:56:46 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-27 22:56:46 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:56:46 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-27 22:56:46 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-27 22:56:46 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for 127.0.0.1 at 2015-02-27 22:56:47 -0800
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 00:05:15 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (6.0ms)
+  Rendered polls/new.html.erb within layouts/application (7.0ms)
+Completed 200 OK in 64725ms (Views: 64723.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 00:06:19 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (11.0ms)
+  Rendered polls/new.html.erb within layouts/application (13.0ms)
+Completed 500 Internal Server Error in 16ms
+
+ActionView::Template::Error (undefined method `answer' for #<Poll:0x6246210>):
+    2: 	= f.input :question
+    3: 
+    4: 	-(1..4).each do |i|
+    5: 		= f.input :answer, name: "answer[]", multiple: true, label: "#{i}."
+    6: 
+    7: 	= f.button :button
+  app/views/polls/_form.html.haml:5:in `block (2 levels) in _app_views_polls__form_html_haml___625019221_51541296'
+  app/views/polls/_form.html.haml:4:in `block in _app_views_polls__form_html_haml___625019221_51541296'
+  app/views/polls/_form.html.haml:1:in `_app_views_polls__form_html_haml___625019221_51541296'
+  app/views/polls/new.html.erb:3:in `_app_views_polls_new_html_erb__963089008_44110140'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (24.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 00:08:08 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (6.0ms)
+  Rendered polls/new.html.erb within layouts/application (8.0ms)
+Completed 500 Internal Server Error in 17ms
+
+ActionView::Template::Error (undefined method `answer' for #<Poll:0x60f9f90>):
+    2: 	= f.input :question
+    3: 
+    4: 	-(1..4).each do |i|
+    5: 		= f.input :answer, name: "answer[]", multiple: true, label: "#{i}."
+    6: 
+    7: 	= f.button :button
+  app/views/polls/_form.html.haml:5:in `block (2 levels) in _app_views_polls__form_html_haml___625019221_51541296'
+  app/views/polls/_form.html.haml:4:in `block in _app_views_polls__form_html_haml___625019221_51541296'
+  app/views/polls/_form.html.haml:1:in `_app_views_polls__form_html_haml___625019221_51541296'
+  app/views/polls/new.html.erb:3:in `_app_views_polls_new_html_erb__963089008_44110140'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (4.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (24.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 00:08:15 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (6.0ms)
+  Rendered polls/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 65469ms (Views: 65442.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:09:20 -0800
+
+
+Started GET "/assets/application-97cc40bdf5f89e2f54620879568e605d.css?body=1" for ::1 at 2015-02-28 00:09:20 -0800
+
+
+Started GET "/assets/scaffolds-97b3d93db03dd639a0e8e7947504cfbb.css?body=1" for ::1 at 2015-02-28 00:09:20 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:09:20 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:09:20 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:09:20 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:09:20 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:09:20 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-28 00:09:20 -0800
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 00:10:56 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (8.0ms)
+  Rendered polls/new.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 67469ms (Views: 67467.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:12:03 -0800
+
+
+Started GET "/assets/scaffolds-97b3d93db03dd639a0e8e7947504cfbb.css?body=1" for ::1 at 2015-02-28 00:12:03 -0800
+
+
+Started GET "/assets/application-97cc40bdf5f89e2f54620879568e605d.css?body=1" for ::1 at 2015-02-28 00:12:03 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:12:03 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:12:03 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:12:03 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:12:03 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:12:03 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-28 00:12:03 -0800
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 00:12:11 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (6.0ms)
+  Rendered polls/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 143ms (Views: 142.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:12:12 -0800
+
+
+Started GET "/assets/scaffolds-97b3d93db03dd639a0e8e7947504cfbb.css?body=1" for ::1 at 2015-02-28 00:12:12 -0800
+
+
+Started GET "/assets/application-97cc40bdf5f89e2f54620879568e605d.css?body=1" for ::1 at 2015-02-28 00:12:12 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:12:12 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:12:12 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:12:12 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:12:12 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:12:12 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-28 00:12:12 -0800
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 00:12:25 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (7.0ms)
+  Rendered polls/new.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 140ms (Views: 140.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds-97b3d93db03dd639a0e8e7947504cfbb.css?body=1" for ::1 at 2015-02-28 00:12:25 -0800
+
+
+Started GET "/assets/application-97cc40bdf5f89e2f54620879568e605d.css?body=1" for ::1 at 2015-02-28 00:12:25 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:12:25 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:12:25 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:12:25 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:12:25 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:12:25 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:12:25 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-28 00:12:25 -0800
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 00:14:07 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (8.0ms)
+  Rendered polls/new.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 65818ms (Views: 65816.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:15:13 -0800
+
+
+Started GET "/assets/scaffolds-97b3d93db03dd639a0e8e7947504cfbb.css?body=1" for ::1 at 2015-02-28 00:15:13 -0800
+
+
+Started GET "/assets/application-97cc40bdf5f89e2f54620879568e605d.css?body=1" for ::1 at 2015-02-28 00:15:13 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:15:13 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:15:13 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:15:13 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:15:13 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:15:13 -0800
+
+
+Started GET "/assets/application-d5dd9df895e734baa4e6c45e5b5415a9.js?body=1" for ::1 at 2015-02-28 00:15:13 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to CreateAnswers (20150228081929)
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mCREATE TABLE "answers" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "text" varchar, "poll_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL) [0m
+  [1m[35m (0.0ms)[0m  select sqlite_version(*)
+  [1m[36m (0.0ms)[0m  [1mCREATE  INDEX "index_answers_on_poll_id" ON "answers" ("poll_id")[0m
+  [1m[35mSQL (0.0ms)[0m  INSERT INTO "schema_migrations" ("version") VALUES (?)  [["version", "20150228081929"]]
+  [1m[36m (113.0ms)[0m  [1mcommit transaction[0m
+  [1m[35mActiveRecord::SchemaMigration Load (0.0ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+  [1m[36m (0.0ms)[0m  [1m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_answers_on_poll_id' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_answers_on_poll_id' AND type='index'
+[0m
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:21:31 -0800
+  [1m[35mActiveRecord::SchemaMigration Load (0.0ms)[0m  SELECT "schema_migrations".* FROM "schema_migrations"
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"6qTCkDwo0oIhZZHT2TNxOsO6snW+y+13dNpwxCBMhvfPBSbtg1o782OnqcPdCUxSX31W728CJzL2vUzrRFDAvg==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  Rendered polls/_form.html.haml (7.0ms)
+  Rendered polls/new.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 67154ms (Views: 67126.8ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/answers-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:22:38 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:22:38 -0800
+
+
+Started GET "/assets/scaffolds-97b3d93db03dd639a0e8e7947504cfbb.css?body=1" for ::1 at 2015-02-28 00:22:39 -0800
+
+
+Started GET "/assets/application-97cc40bdf5f89e2f54620879568e605d.css?body=1" for ::1 at 2015-02-28 00:22:39 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:22:39 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:22:39 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:22:39 -0800
+
+
+Started GET "/assets/answers-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:22:39 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:22:39 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:22:39 -0800
+
+
+Started GET "/assets/application-8ce5067598cd03bc722b97db5dd776ec.js?body=1" for ::1 at 2015-02-28 00:22:39 -0800
+
+
+Started GET "/polls" for ::1 at 2015-02-28 00:25:54 -0800
+Processing by PollsController#index as HTML
+  [1m[36mPoll Load (1.0ms)[0m  [1mSELECT "polls".* FROM "polls"[0m
+  Rendered polls/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 64954ms (Views: 64950.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/scaffolds-97b3d93db03dd639a0e8e7947504cfbb.css?body=1" for ::1 at 2015-02-28 00:26:59 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:26:59 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:26:59 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:26:59 -0800
+
+
+Started GET "/assets/application-97cc40bdf5f89e2f54620879568e605d.css?body=1" for ::1 at 2015-02-28 00:26:59 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:26:59 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:26:59 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:26:59 -0800
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 00:28:15 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (8.0ms)
+  Rendered polls/new.html.erb within layouts/application (11.0ms)
+Completed 500 Internal Server Error in 15ms
+
+ActionView::Template::Error (undefined local variable or method `resource' for #<#<Class:0x615ab78>:0x5ff5638>):
+    1: = simple_form_for(@poll) do |f|
+    2: 	= devise_error_messages!
+    3: 	= f.input :question
+    4: 	.answers
+    5: 		-(1..4).each do |i|
+  app/helpers/devise_helper.rb:3:in `devise_error_messages!'
+  app/views/polls/_form.html.haml:2:in `block in _app_views_polls__form_html_haml___625019221_50374812'
+  app/views/polls/_form.html.haml:1:in `_app_views_polls__form_html_haml___625019221_50374812'
+  app/views/polls/new.html.erb:3:in `_app_views_polls_new_html_erb__963089008_50327136'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (24.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 00:28:16 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (8.0ms)
+  Rendered polls/new.html.erb within layouts/application (10.0ms)
+Completed 500 Internal Server Error in 13ms
+
+ActionView::Template::Error (undefined local variable or method `resource' for #<#<Class:0x615ab78>:0x7a0d210>):
+    1: = simple_form_for(@poll) do |f|
+    2: 	= devise_error_messages!
+    3: 	= f.input :question
+    4: 	.answers
+    5: 		-(1..4).each do |i|
+  app/helpers/devise_helper.rb:3:in `devise_error_messages!'
+  app/views/polls/_form.html.haml:2:in `block in _app_views_polls__form_html_haml___625019221_64011468'
+  app/views/polls/_form.html.haml:1:in `_app_views_polls__form_html_haml___625019221_64011468'
+  app/views/polls/new.html.erb:3:in `_app_views_polls_new_html_erb__963089008_44110140'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/template_error.html.erb within rescues/layout (24.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 00:28:47 -0800
+Processing by PollsController#new as HTML
+  Rendered polls/_form.html.haml (7.0ms)
+  Rendered polls/new.html.erb within layouts/application (8.0ms)
+Completed 200 OK in 64417ms (Views: 64411.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/answers-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:29:52 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:29:52 -0800
+
+
+Started GET "/assets/application-97cc40bdf5f89e2f54620879568e605d.css?body=1" for ::1 at 2015-02-28 00:29:52 -0800
+
+
+Started GET "/assets/scaffolds-97b3d93db03dd639a0e8e7947504cfbb.css?body=1" for ::1 at 2015-02-28 00:29:52 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:29:52 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:29:52 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:29:52 -0800
+
+
+Started GET "/assets/answers-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:29:52 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:29:52 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:29:52 -0800
+
+
+Started GET "/assets/application-8ce5067598cd03bc722b97db5dd776ec.js?body=1" for ::1 at 2015-02-28 00:29:52 -0800
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:38:07 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"Hk/YgKK658+Svi3pyISX/X92Z3khWg1LQBL0sPWFbJE77jz9HcgOvtB8FfnMvqqV47GD4/CTxw7CdcifkZkq2A==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  Rendered shared/_error_messages.html.erb (1.0ms)
+  Rendered polls/_form.html.haml (10.0ms)
+  Rendered polls/new.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 64902ms (Views: 64899.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/answers-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:39:12 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:39:12 -0800
+
+
+Started GET "/assets/polls-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:39:12 -0800
+WARNING on line 4 of D:/github/charitypolls/app/assets/stylesheets/polls.css.sass:
+This selector doesn't have any properties and will not be rendered.
+
+
+Started GET "/assets/scaffolds-97b3d93db03dd639a0e8e7947504cfbb.css?body=1" for ::1 at 2015-02-28 00:39:12 -0800
+
+ActionController::RoutingError (No route matches [GET] "/assets/scaffolds-97b3d93db03dd639a0e8e7947504cfbb.css"):
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:22:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_route.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/routes/_table.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/routing_error.html.erb within rescues/layout (63.0ms)
+
+
+Started GET "/assets/application-97cc40bdf5f89e2f54620879568e605d.css?body=1" for ::1 at 2015-02-28 00:39:12 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:39:13 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:39:13 -0800
+
+
+Started GET "/assets/answers-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:39:13 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:39:13 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:39:13 -0800
+
+
+Started GET "/assets/application-8ce5067598cd03bc722b97db5dd776ec.js?body=1" for ::1 at 2015-02-28 00:39:13 -0800
+
+
+Started GET "/polls" for ::1 at 2015-02-28 00:39:44 -0800
+Processing by PollsController#index as HTML
+  [1m[35mPoll Load (0.0ms)[0m  SELECT "polls".* FROM "polls"
+  Rendered polls/index.html.erb within layouts/application (1.0ms)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from _app_views_layouts_application_html_haml__267083470_45402240 at D:/github/charitypolls/app/views/layouts/application.html.haml:9)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from _app_views_layouts_application_html_haml__267083470_45402240 at D:/github/charitypolls/app/views/layouts/application.html.haml:9)
+Completed 200 OK in 65762ms (Views: 65760.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/answers-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:40:49 -0800
+
+
+Started GET "/assets/application-8311be7f7abe0a169efbc58b21a92a04.css?body=1" for ::1 at 2015-02-28 00:40:49 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:40:49 -0800
+
+
+Started GET "/assets/polls-cc8f5ce94515c3d5d0def931d38c5623.css?body=1" for ::1 at 2015-02-28 00:40:49 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:40:49 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:40:49 -0800
+
+
+Started GET "/assets/answers-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:40:50 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:40:50 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:40:50 -0800
+
+
+Started GET "/assets/application-8ce5067598cd03bc722b97db5dd776ec.js?body=1" for ::1 at 2015-02-28 00:40:50 -0800
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 00:42:15 -0800
+Processing by PollsController#new as HTML
+  Rendered shared/_error_messages.html.erb (1.0ms)
+  Rendered polls/_form.html.haml (9.0ms)
+  Rendered polls/new.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 64363ms (Views: 64361.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:44:04 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"BcZQG+8OwsMJJRKrNtIhmjlkTNzfxFl5j+O14ErcljcgZ7RmUHwrskvnKrsy6BzypaOoRg4NkzwNhInPLsDQfg==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  Rendered shared/_error_messages.html.erb (0.0ms)
+  Rendered polls/_form.html.haml (8.0ms)
+  Rendered polls/new.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 64682ms (Views: 64679.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/answers-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:45:08 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:45:09 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:45:09 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:45:09 -0800
+
+
+Started GET "/assets/answers-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:45:09 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:45:09 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:45:09 -0800
+
+
+Started GET "/assets/application-8ce5067598cd03bc722b97db5dd776ec.js?body=1" for 127.0.0.1 at 2015-02-28 00:45:09 -0800
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:47:54 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Completed 500 Internal Server Error in 2ms
+
+SyntaxError (D:/github/charitypolls/app/models/poll.rb:12: syntax error, unexpected keyword_end
+D:/github/charitypolls/app/models/poll.rb:19: syntax error, unexpected $end, expecting keyword_end):
+  app/models/poll.rb:12: syntax error, unexpected keyword_end
+  app/models/poll.rb:19: syntax error, unexpected $end, expecting keyword_end
+  app/controllers/polls_controller.rb:27:in `create'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (22.0ms)
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:48:19 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Completed 500 Internal Server Error in 24ms
+
+SyntaxError (D:/github/charitypolls/app/models/poll.rb:12: syntax error, unexpected keyword_end
+D:/github/charitypolls/app/models/poll.rb:19: syntax error, unexpected $end, expecting keyword_end):
+  app/models/poll.rb:12: syntax error, unexpected keyword_end
+  app/models/poll.rb:19: syntax error, unexpected $end, expecting keyword_end
+  app/controllers/polls_controller.rb:27:in `create'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (23.0ms)
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:48:47 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Completed 500 Internal Server Error in 7ms
+
+NoMethodError (undefined method `each' for nil:NilClass):
+  app/models/poll.rb:9:in `has_answers'
+  app/controllers/polls_controller.rb:30:in `block in create'
+  app/controllers/polls_controller.rb:29:in `create'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (51.0ms)
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:49:19 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  Rendered shared/_error_messages.html.erb (1.0ms)
+  Rendered polls/_form.html.haml (33.0ms)
+  Rendered polls/new.html.erb within layouts/application (35.0ms)
+Completed 200 OK in 68690ms (Views: 68683.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/polls-cc8f5ce94515c3d5d0def931d38c5623.css?body=1" for ::1 at 2015-02-28 00:50:27 -0800
+
+
+Started GET "/assets/application-8311be7f7abe0a169efbc58b21a92a04.css?body=1" for ::1 at 2015-02-28 00:50:27 -0800
+
+
+Started GET "/assets/answers-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:50:27 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:50:27 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:50:27 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:50:27 -0800
+
+
+Started GET "/assets/answers-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:50:27 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:50:27 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:50:27 -0800
+
+
+Started GET "/assets/application-8ce5067598cd03bc722b97db5dd776ec.js?body=1" for ::1 at 2015-02-28 00:50:27 -0800
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:53:49 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Completed 500 Internal Server Error in 7ms
+
+NoMethodError (undefined method `add_to_base' for #<ActiveModel::Errors:0x6207d68>):
+  app/models/poll.rb:19:in `has_answers'
+  app/controllers/polls_controller.rb:30:in `block in create'
+  app/controllers/polls_controller.rb:29:in `create'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (23.0ms)
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:54:08 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Completed 500 Internal Server Error in 7ms
+
+NoMethodError (undefined method `add_to_base' for #<ActiveModel::Errors:0x6222e40>):
+  app/models/poll.rb:19:in `has_answers'
+  app/controllers/polls_controller.rb:30:in `block in create'
+  app/controllers/polls_controller.rb:29:in `create'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (24.0ms)
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:54:53 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Completed 500 Internal Server Error in 7ms
+
+NoMethodError (undefined method `You must provide at least 2 answers' for #<Poll:0x61f9fc8>):
+  app/models/poll.rb:19:in `has_answers'
+  app/controllers/polls_controller.rb:30:in `block in create'
+  app/controllers/polls_controller.rb:29:in `create'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (23.0ms)
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:55:17 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+Completed 500 Internal Server Error in 8ms
+
+NoMethodError (undefined method `to_sym' for nil:NilClass):
+  app/models/poll.rb:19:in `has_answers'
+  app/controllers/polls_controller.rb:30:in `block in create'
+  app/controllers/polls_controller.rb:29:in `create'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (25.0ms)
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:55:38 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  Rendered shared/_error_messages.html.erb (2.0ms)
+  Rendered polls/_form.html.haml (11.0ms)
+  Rendered polls/new.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 64634ms (Views: 64626.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/answers-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:56:42 -0800
+
+
+Started GET "/assets/polls-cc8f5ce94515c3d5d0def931d38c5623.css?body=1" for ::1 at 2015-02-28 00:56:42 -0800
+
+
+Started GET "/assets/application-8311be7f7abe0a169efbc58b21a92a04.css?body=1" for ::1 at 2015-02-28 00:56:42 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:56:42 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:56:42 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:56:42 -0800
+
+
+Started GET "/assets/answers-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:56:42 -0800
+
+
+Started GET "/assets/application-8ce5067598cd03bc722b97db5dd776ec.js?body=1" for ::1 at 2015-02-28 00:56:42 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:56:42 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:56:42 -0800
+
+
+Started POST "/polls" for ::1 at 2015-02-28 00:58:55 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  Rendered shared/_error_messages.html.erb (1.0ms)
+  Rendered polls/_form.html.haml (9.0ms)
+  Rendered polls/new.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 64390ms (Views: 64386.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/answers-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 00:59:59 -0800
+
+
+Started GET "/assets/polls-cc8f5ce94515c3d5d0def931d38c5623.css?body=1" for ::1 at 2015-02-28 00:59:59 -0800
+
+
+Started GET "/assets/application-8311be7f7abe0a169efbc58b21a92a04.css?body=1" for ::1 at 2015-02-28 00:59:59 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 00:59:59 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 00:59:59 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 00:59:59 -0800
+
+
+Started GET "/assets/answers-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:59:59 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:59:59 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 00:59:59 -0800
+
+
+Started GET "/assets/application-8ce5067598cd03bc722b97db5dd776ec.js?body=1" for ::1 at 2015-02-28 00:59:59 -0800
+
+
+Started POST "/polls" for ::1 at 2015-02-28 01:02:14 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[36m (1.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  Rendered shared/_error_messages.html.erb (1.0ms)
+  Rendered polls/_form.html.haml (9.0ms)
+  Rendered polls/new.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 65007ms (Views: 65003.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/polls-cc8f5ce94515c3d5d0def931d38c5623.css?body=1" for ::1 at 2015-02-28 01:03:19 -0800
+
+
+Started GET "/assets/application-3b8fd5a56115d8c36d4550027900920c.css?body=1" for ::1 at 2015-02-28 01:03:19 -0800
+
+
+Started GET "/assets/answers-64e62ddc273c2f5847f30d698ca14b67.css?body=1" for ::1 at 2015-02-28 01:03:19 -0800
+
+
+Started GET "/assets/jquery-87424c3c19e96d4fb033c10ebe21ec40.js?body=1" for ::1 at 2015-02-28 01:03:20 -0800
+
+
+Started GET "/assets/jquery_ujs-e27bd20a10d28155845a22d71ef94f2f.js?body=1" for ::1 at 2015-02-28 01:03:20 -0800
+
+
+Started GET "/assets/turbolinks-f87b3583ca50adb0488b031297f5580d.js?body=1" for ::1 at 2015-02-28 01:03:20 -0800
+
+
+Started GET "/assets/answers-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 01:03:20 -0800
+
+
+Started GET "/assets/polls-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 01:03:20 -0800
+
+
+Started GET "/assets/welcome-fcec5b5a277ac7c20cc9f45a209a3bcd.js?body=1" for ::1 at 2015-02-28 01:03:20 -0800
+
+
+Started GET "/assets/application-8ce5067598cd03bc722b97db5dd776ec.js?body=1" for ::1 at 2015-02-28 01:03:20 -0800
+
+
+Started POST "/polls" for ::1 at 2015-02-28 01:04:50 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  rollback transaction
+  Rendered shared/_error_messages.html.erb (1.0ms)
+  Rendered polls/_form.html.haml (9.0ms)
+  Rendered polls/new.html.erb within layouts/application (10.0ms)
+
+
+Started POST "/polls" for ::1 at 2015-02-28 01:05:32 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  Rendered shared/_error_messages.html.erb (1.0ms)
+  Rendered polls/_form.html.haml (105.0ms)
+  Rendered polls/new.html.erb within layouts/application (130.0ms)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from _app_views_layouts_application_html_haml___181995153_50421960 at D:/github/charitypolls/app/views/layouts/application.html.haml:9)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from _app_views_layouts_application_html_haml___181995153_50421960 at D:/github/charitypolls/app/views/layouts/application.html.haml:9)
+Completed 200 OK in 1578ms (Views: 1554.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-8ce5067598cd03bc722b97db5dd776ec.js" for ::1 at 2015-02-28 01:05:33 -0800
+
+
+Started GET "/assets/application-8311be7f7abe0a169efbc58b21a92a04.css" for ::1 at 2015-02-28 01:05:33 -0800
+
+
+Started POST "/polls" for ::1 at 2015-02-28 01:06:17 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  Rendered shared/_error_messages.html.erb (1.0ms)
+  Rendered polls/_form.html.haml (10.0ms)
+  Rendered polls/new.html.erb within layouts/application (11.0ms)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from _app_views_layouts_application_html_haml___181995153_50421960 at D:/github/charitypolls/app/views/layouts/application.html.haml:9)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from _app_views_layouts_application_html_haml___181995153_50421960 at D:/github/charitypolls/app/views/layouts/application.html.haml:9)
+Completed 200 OK in 1528ms (Views: 1525.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-8ce5067598cd03bc722b97db5dd776ec.js" for ::1 at 2015-02-28 01:06:19 -0800
+
+
+Started GET "/assets/application-25e1c2098adc16a9ab181117045367b3.css" for ::1 at 2015-02-28 01:06:19 -0800
+
+
+Started POST "/polls" for ::1 at 2015-02-28 01:07:29 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  Rendered shared/_error_messages.html.erb (1.0ms)
+  Rendered polls/_form.html.haml (9.0ms)
+  Rendered polls/new.html.erb within layouts/application (10.0ms)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from _app_views_layouts_application_html_haml___181995153_50421960 at D:/github/charitypolls/app/views/layouts/application.html.haml:9)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from _app_views_layouts_application_html_haml___181995153_50421960 at D:/github/charitypolls/app/views/layouts/application.html.haml:9)
+Completed 200 OK in 1818ms (Views: 1816.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-aa304a4eb9bacb41650b7d3c80a0934c.js" for ::1 at 2015-02-28 01:07:31 -0800
+
+
+Started GET "/assets/application-6d4d0d72321085fb4e89e4980f2157f6.css" for ::1 at 2015-02-28 01:07:31 -0800
+
+
+Started POST "/polls" for ::1 at 2015-02-28 01:08:36 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"DfRfv5nxxhEneb5INEdYHM62b/FJ8xgDwwLTbAcRpZooVbvCJoMvYGW7hlgwfWV0UnGLa5g60kZBZe9DYw3j0w==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  Rendered shared/_error_messages.html.erb (1.0ms)
+  Rendered polls/_form.html.haml (8.0ms)
+  Rendered polls/new.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 86ms (Views: 84.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-aa304a4eb9bacb41650b7d3c80a0934c.js" for ::1 at 2015-02-28 01:08:36 -0800
+
+
+Started POST "/polls" for ::1 at 2015-02-28 01:08:40 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"aaLR1sFbIQZgHTy1Ilshf3dzzTTxsgm4JFjc+w5oisZMAzWrfinIdyLfBKUmYRwX67QpriB7w/2mP+DUanTMjw==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  Rendered shared/_error_messages.html.erb (1.0ms)
+  Rendered polls/_form.html.haml (9.0ms)
+  Rendered polls/new.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 87ms (Views: 85.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-aa304a4eb9bacb41650b7d3c80a0934c.js" for ::1 at 2015-02-28 01:08:41 -0800
+
+
+Started POST "/polls" for ::1 at 2015-02-28 01:09:06 -0800
+Processing by PollsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"aaLR1sFbIQZgHTy1Ilshf3dzzTTxsgm4JFjc+w5oisZMAzWrfinIdyLfBKUmYRwX67QpriB7w/2mP+DUanTMjw==", "poll"=>{"question"=>"", "answer"=>["", "", "", ""]}, "button"=>""}
+Unpermitted parameter: answer
+  [1m[35m (0.0ms)[0m  begin transaction
+  [1m[36m (0.0ms)[0m  [1mrollback transaction[0m
+  Rendered shared/_error_messages.html.erb (1.0ms)
+  Rendered polls/_form.html.haml (9.0ms)
+  Rendered polls/new.html.erb within layouts/application (10.0ms)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from _app_views_layouts_application_html_haml___181995153_50421960 at D:/github/charitypolls/app/views/layouts/application.html.haml:9)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from _app_views_layouts_application_html_haml___181995153_50421960 at D:/github/charitypolls/app/views/layouts/application.html.haml:9)
+Completed 200 OK in 1480ms (Views: 1478.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-aa304a4eb9bacb41650b7d3c80a0934c.js" for ::1 at 2015-02-28 01:09:08 -0800
+
+
+Started GET "/assets/application-e3bf7264b580436476c499c676d6e0db.css" for ::1 at 2015-02-28 01:09:08 -0800
+
+
+Started GET "/polls" for ::1 at 2015-02-28 01:09:10 -0800
+Processing by PollsController#index as HTML
+  [1m[35mPoll Load (0.0ms)[0m  SELECT "polls".* FROM "polls"
+  Rendered polls/index.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 77ms (Views: 76.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-aa304a4eb9bacb41650b7d3c80a0934c.js" for ::1 at 2015-02-28 01:09:10 -0800
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 01:09:14 -0800
+Processing by PollsController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.0ms)
+  Rendered polls/_form.html.haml (9.0ms)
+  Rendered polls/new.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 84ms (Views: 83.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 01:10:24 -0800
+Processing by PollsController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.0ms)
+  Rendered polls/_form.html.haml (9.0ms)
+  Rendered polls/new.html.erb within layouts/application (10.0ms)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from _app_views_layouts_application_html_haml___181995153_50421960 at D:/github/charitypolls/app/views/layouts/application.html.haml:9)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from _app_views_layouts_application_html_haml___181995153_50421960 at D:/github/charitypolls/app/views/layouts/application.html.haml:9)
+Completed 200 OK in 1456ms (Views: 1456.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-75d934d035190a2dca1ef868dd5f3506.css" for ::1 at 2015-02-28 01:10:26 -0800
+
+
+Started GET "/assets/application-aa304a4eb9bacb41650b7d3c80a0934c.js" for ::1 at 2015-02-28 01:10:26 -0800
+
+
+Started GET "/assets/application-75d934d035190a2dca1ef868dd5f3506.css?forceReload=1425114657885" for ::1 at 2015-02-28 01:10:57 -0800
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+
+
+Started GET "/assets/application-75d934d035190a2dca1ef868dd5f3506.css?forceReload=1425114698766" for ::1 at 2015-02-28 01:11:38 -0800
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+
+
+Started GET "/polls/new" for ::1 at 2015-02-28 01:13:33 -0800
+Processing by PollsController#new as HTML
+  Rendered shared/_error_messages.html.erb (0.0ms)
+  Rendered polls/_form.html.haml (8.0ms)
+  Rendered polls/new.html.erb within layouts/application (9.0ms)
+Completed 200 OK in 89ms (Views: 88.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-aa304a4eb9bacb41650b7d3c80a0934c.js" for ::1 at 2015-02-28 01:13:33 -0800
+
+
+Started GET "/assets/application-eda9ed07eb36fad0210ae971bf5f357d.css" for ::1 at 2015-02-28 01:13:33 -0800
+
+
+Started GET "/assets/application-eda9ed07eb36fad0210ae971bf5f357d.css?forceReload=1425115000221" for ::1 at 2015-02-28 01:16:40 -0800
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+
+
+Started GET "/assets/application-eda9ed07eb36fad0210ae971bf5f357d.css?forceReload=1425115017616" for ::1 at 2015-02-28 01:16:57 -0800
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+
+
+Started GET "/assets/application-eda9ed07eb36fad0210ae971bf5f357d.css?forceReload=1425115036082" for ::1 at 2015-02-28 01:17:16 -0800
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+
+
+Started GET "/assets/application-eda9ed07eb36fad0210ae971bf5f357d.css?forceReload=1425115054321" for ::1 at 2015-02-28 01:17:34 -0800
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+
+
+Started GET "/assets/application-eda9ed07eb36fad0210ae971bf5f357d.css?forceReload=1425115072715" for ::1 at 2015-02-28 01:17:52 -0800
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+
+
+Started GET "/assets/application-eda9ed07eb36fad0210ae971bf5f357d.css?forceReload=1425115116068" for ::1 at 2015-02-28 01:18:36 -0800
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+DEPRECATION WARNING: Extra .css in SASS file is unnecessary. Rename D:/github/charitypolls/app/assets/stylesheets/polls.css.sass to D:/github/charitypolls/app/assets/stylesheets/polls.sass. (called from service at D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:22:09 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by RailsAdmin::MainController#dashboard as HTML
+  [1m[35m (0.0ms)[0m  SELECT COUNT(*) FROM "answers"
+  [1m[36mAnswer Load (0.0ms)[0m  [1mSELECT  "answers".* FROM "answers"  ORDER BY answers.updated_at desc LIMIT 1[0m
+  [1m[35m (1.0ms)[0m  SELECT COUNT(*) FROM "polls"
+  [1m[36mPoll Load (0.0ms)[0m  [1mSELECT  "polls".* FROM "polls"  ORDER BY polls.updated_at desc LIMIT 1[0m
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/rails_admin-0.6.6/app/views/rails_admin/main/dashboard.html.haml within layouts/rails_admin/application (10.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/rails_admin-0.6.6/app/views/layouts/rails_admin/_secondary_navigation.html.haml (7.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/rails_admin-0.6.6/app/views/layouts/rails_admin/_navigation.html.haml (10.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/rails_admin-0.6.6/app/views/layouts/rails_admin/pjax.html.haml (3.0ms)
+Completed 200 OK in 5741ms (Views: 5602.3ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/rails_admin/rails_admin-1412bb87a3fe156036becf871e0092bd.css" for ::1 at 2015-02-28 01:22:15 -0800
+
+
+Started GET "/assets/rails_admin/rails_admin-fe92b5c96e150ac000ee5d78830f52ee.js" for ::1 at 2015-02-28 01:22:15 -0800
+
+
+Started GET "/assets/fontawesome-webfont-bdd5fe963cf9a6bcf9c449166e2e5a57.woff2?v=4.3.0" for ::1 at 2015-02-28 01:22:15 -0800
+
+
+Started GET "/" for ::1 at 2015-02-28 01:27:11 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (3.0ms)
+Completed 200 OK in 208ms (Views: 196.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-aa304a4eb9bacb41650b7d3c80a0934c.js" for ::1 at 2015-02-28 01:27:12 -0800
+
+
+Started GET "/assets/application-7a2562e861c328c70ecd1145c7c1f9a4.css" for ::1 at 2015-02-28 01:27:12 -0800
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:27:15 -0800
+Processing by RailsAdmin::MainController#dashboard as HTML
+Completed 500 Internal Server Error in 3ms
+
+NameError (undefined local variable or method `warden' for #<RailsAdmin::MainController:0x627a8a8>):
+  config/initializers/rails_admin.rb:7:in `block (2 levels) in <top (required)>'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (24.0ms)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:31:37 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by RailsAdmin::MainController#dashboard as HTML
+Completed 401 Unauthorized in 12ms
+
+NoMethodError (undefined method `failure_app' for nil:NilClass):
+  devise (3.2.4) lib/devise/delegator.rb:11:in `failure_app'
+  devise (3.2.4) lib/devise/delegator.rb:5:in `call'
+  warden (1.2.3) lib/warden/manager.rb:130:in `call_failure_app'
+  warden (1.2.3) lib/warden/manager.rb:116:in `process_unauthenticated'
+  warden (1.2.3) lib/warden/manager.rb:47:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  remotipart (1.2.1) lib/remotipart/middleware.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:647:in `call'
+  activerecord (4.2.0) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:18:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (46.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-28 01:31:43 -0800
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (1.0ms)
+Completed 200 OK in 162ms (Views: 161.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-aa304a4eb9bacb41650b7d3c80a0934c.js" for ::1 at 2015-02-28 01:31:43 -0800
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:31:46 -0800
+Processing by RailsAdmin::MainController#dashboard as HTML
+Completed 401 Unauthorized in 1ms
+
+NoMethodError (undefined method `failure_app' for nil:NilClass):
+  devise (3.2.4) lib/devise/delegator.rb:11:in `failure_app'
+  devise (3.2.4) lib/devise/delegator.rb:5:in `call'
+  warden (1.2.3) lib/warden/manager.rb:130:in `call_failure_app'
+  warden (1.2.3) lib/warden/manager.rb:116:in `process_unauthenticated'
+  warden (1.2.3) lib/warden/manager.rb:47:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  remotipart (1.2.1) lib/remotipart/middleware.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:647:in `call'
+  activerecord (4.2.0) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:18:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (21.0ms)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:33:17 -0800
+
+NameError (uninitialized constant Admin):
+  config/routes.rb:3:in `block in <top (required)>'
+  config/routes.rb:1:in `<top (required)>'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (45.0ms)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:34:12 -0800
+
+NameError (uninitialized constant User):
+  config/routes.rb:3:in `block in <top (required)>'
+  config/routes.rb:1:in `<top (required)>'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (47.0ms)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:34:14 -0800
+Processing by RailsAdmin::MainController#dashboard as HTML
+Completed 401 Unauthorized in 0ms
+
+NoMethodError (undefined method `failure_app' for nil:NilClass):
+  devise (3.2.4) lib/devise/delegator.rb:11:in `failure_app'
+  devise (3.2.4) lib/devise/delegator.rb:5:in `call'
+  warden (1.2.3) lib/warden/manager.rb:130:in `call_failure_app'
+  warden (1.2.3) lib/warden/manager.rb:116:in `process_unauthenticated'
+  warden (1.2.3) lib/warden/manager.rb:47:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  remotipart (1.2.1) lib/remotipart/middleware.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:647:in `call'
+  activerecord (4.2.0) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:18:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (21.0ms)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:34:14 -0800
+Processing by RailsAdmin::MainController#dashboard as HTML
+Completed 401 Unauthorized in 1ms
+
+NoMethodError (undefined method `failure_app' for nil:NilClass):
+  devise (3.2.4) lib/devise/delegator.rb:11:in `failure_app'
+  devise (3.2.4) lib/devise/delegator.rb:5:in `call'
+  warden (1.2.3) lib/warden/manager.rb:130:in `call_failure_app'
+  warden (1.2.3) lib/warden/manager.rb:116:in `process_unauthenticated'
+  warden (1.2.3) lib/warden/manager.rb:47:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  remotipart (1.2.1) lib/remotipart/middleware.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:647:in `call'
+  activerecord (4.2.0) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:18:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (45.0ms)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:34:14 -0800
+Processing by RailsAdmin::MainController#dashboard as HTML
+Completed 401 Unauthorized in 1ms
+
+NoMethodError (undefined method `failure_app' for nil:NilClass):
+  devise (3.2.4) lib/devise/delegator.rb:11:in `failure_app'
+  devise (3.2.4) lib/devise/delegator.rb:5:in `call'
+  warden (1.2.3) lib/warden/manager.rb:130:in `call_failure_app'
+  warden (1.2.3) lib/warden/manager.rb:116:in `process_unauthenticated'
+  warden (1.2.3) lib/warden/manager.rb:47:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  remotipart (1.2.1) lib/remotipart/middleware.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:647:in `call'
+  activerecord (4.2.0) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:18:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (21.0ms)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:34:14 -0800
+Processing by RailsAdmin::MainController#dashboard as HTML
+Completed 401 Unauthorized in 0ms
+
+NoMethodError (undefined method `failure_app' for nil:NilClass):
+  devise (3.2.4) lib/devise/delegator.rb:11:in `failure_app'
+  devise (3.2.4) lib/devise/delegator.rb:5:in `call'
+  warden (1.2.3) lib/warden/manager.rb:130:in `call_failure_app'
+  warden (1.2.3) lib/warden/manager.rb:116:in `process_unauthenticated'
+  warden (1.2.3) lib/warden/manager.rb:47:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  remotipart (1.2.1) lib/remotipart/middleware.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:647:in `call'
+  activerecord (4.2.0) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:18:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (22.0ms)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:34:15 -0800
+Processing by RailsAdmin::MainController#dashboard as HTML
+Completed 401 Unauthorized in 1ms
+
+NoMethodError (undefined method `failure_app' for nil:NilClass):
+  devise (3.2.4) lib/devise/delegator.rb:11:in `failure_app'
+  devise (3.2.4) lib/devise/delegator.rb:5:in `call'
+  warden (1.2.3) lib/warden/manager.rb:130:in `call_failure_app'
+  warden (1.2.3) lib/warden/manager.rb:116:in `process_unauthenticated'
+  warden (1.2.3) lib/warden/manager.rb:47:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  remotipart (1.2.1) lib/remotipart/middleware.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:647:in `call'
+  activerecord (4.2.0) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:18:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (21.0ms)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:34:15 -0800
+Processing by RailsAdmin::MainController#dashboard as HTML
+Completed 401 Unauthorized in 1ms
+
+NoMethodError (undefined method `failure_app' for nil:NilClass):
+  devise (3.2.4) lib/devise/delegator.rb:11:in `failure_app'
+  devise (3.2.4) lib/devise/delegator.rb:5:in `call'
+  warden (1.2.3) lib/warden/manager.rb:130:in `call_failure_app'
+  warden (1.2.3) lib/warden/manager.rb:116:in `process_unauthenticated'
+  warden (1.2.3) lib/warden/manager.rb:47:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  remotipart (1.2.1) lib/remotipart/middleware.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:647:in `call'
+  activerecord (4.2.0) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:18:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (21.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (43.0ms)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:34:16 -0800
+Processing by RailsAdmin::MainController#dashboard as HTML
+Completed 401 Unauthorized in 0ms
+
+NoMethodError (undefined method `failure_app' for nil:NilClass):
+  devise (3.2.4) lib/devise/delegator.rb:11:in `failure_app'
+  devise (3.2.4) lib/devise/delegator.rb:5:in `call'
+  warden (1.2.3) lib/warden/manager.rb:130:in `call_failure_app'
+  warden (1.2.3) lib/warden/manager.rb:116:in `process_unauthenticated'
+  warden (1.2.3) lib/warden/manager.rb:47:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  remotipart (1.2.1) lib/remotipart/middleware.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:647:in `call'
+  activerecord (4.2.0) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:18:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (21.0ms)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:34:16 -0800
+Processing by RailsAdmin::MainController#dashboard as HTML
+Completed 401 Unauthorized in 0ms
+
+NoMethodError (undefined method `failure_app' for nil:NilClass):
+  devise (3.2.4) lib/devise/delegator.rb:11:in `failure_app'
+  devise (3.2.4) lib/devise/delegator.rb:5:in `call'
+  warden (1.2.3) lib/warden/manager.rb:130:in `call_failure_app'
+  warden (1.2.3) lib/warden/manager.rb:116:in `process_unauthenticated'
+  warden (1.2.3) lib/warden/manager.rb:47:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  remotipart (1.2.1) lib/remotipart/middleware.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:647:in `call'
+  activerecord (4.2.0) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:18:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (21.0ms)
+
+
+Started GET "/admin" for ::1 at 2015-02-28 01:34:16 -0800
+Processing by RailsAdmin::MainController#dashboard as HTML
+Completed 401 Unauthorized in 1ms
+
+NoMethodError (undefined method `failure_app' for nil:NilClass):
+  devise (3.2.4) lib/devise/delegator.rb:11:in `failure_app'
+  devise (3.2.4) lib/devise/delegator.rb:5:in `call'
+  warden (1.2.3) lib/warden/manager.rb:130:in `call_failure_app'
+  warden (1.2.3) lib/warden/manager.rb:116:in `process_unauthenticated'
+  warden (1.2.3) lib/warden/manager.rb:47:in `call'
+  rack (1.6.0) lib/rack/etag.rb:24:in `call'
+  rack (1.6.0) lib/rack/conditionalget.rb:25:in `call'
+  rack (1.6.0) lib/rack/head.rb:13:in `call'
+  remotipart (1.2.1) lib/remotipart/middleware.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/params_parser.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/flash.rb:260:in `call'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:225:in `context'
+  rack (1.6.0) lib/rack/session/abstract/id.rb:220:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/cookies.rb:560:in `call'
+  activerecord (4.2.0) lib/active_record/query_cache.rb:36:in `call'
+  activerecord (4.2.0) lib/active_record/connection_adapters/abstract/connection_pool.rb:647:in `call'
+  activerecord (4.2.0) lib/active_record/migration.rb:378:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:29:in `block in call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `call'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:88:in `_run_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:734:in `_run_call_callbacks'
+  activesupport (4.2.0) lib/active_support/callbacks.rb:81:in `run_callbacks'
+  actionpack (4.2.0) lib/action_dispatch/middleware/callbacks.rb:27:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/reloader.rb:73:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/remote_ip.rb:78:in `call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:18:in `middleware_call'
+  web-console (2.0.0) lib/action_dispatch/debug_exceptions.rb:13:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/show_exceptions.rb:30:in `call'
+  railties (4.2.0) lib/rails/rack/logger.rb:38:in `call_app'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `block in call'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `block in tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:26:in `tagged'
+  activesupport (4.2.0) lib/active_support/tagged_logging.rb:68:in `tagged'
+  railties (4.2.0) lib/rails/rack/logger.rb:20:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/request_id.rb:21:in `call'
+  rack (1.6.0) lib/rack/methodoverride.rb:22:in `call'
+  rack (1.6.0) lib/rack/runtime.rb:18:in `call'
+  activesupport (4.2.0) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  actionpack (4.2.0) lib/action_dispatch/middleware/static.rb:113:in `call'
+  rack (1.6.0) lib/rack/sendfile.rb:113:in `call'
+  railties (4.2.0) lib/rails/engine.rb:518:in `call'
+  railties (4.2.0) lib/rails/application.rb:164:in `call'
+  rack (1.6.0) lib/rack/lock.rb:17:in `call'
+  rack (1.6.0) lib/rack/content_length.rb:15:in `call'
+  rack (1.6.0) lib/rack/handler/webrick.rb:89:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:138:in `service'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/httpserver.rb:94:in `run'
+  D:/RailsInstaller/Ruby1.9.3/lib/ruby/1.9.1/webrick/server.rb:191:in `block in start_thread'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (0.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (22.0ms)
+
+
+Started GET "/" for ::1 at 2015-02-28 01:48:42 -0800
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.haml within layouts/application (5.0ms)
+Completed 200 OK in 209ms (Views: 197.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application-aa304a4eb9bacb41650b7d3c80a0934c.js" for ::1 at 2015-02-28 01:48:42 -0800
+
+
+Started GET "/" for ::1 at 2015-02-28 01:50:06 -0800
+
+NoMethodError (undefined method `devise' for User(Table doesn't exist):Class):
+  app/models/user.rb:4:in `<class:User>'
+  app/models/user.rb:1:in `<top (required)>'
+  config/routes.rb:2:in `block in <top (required)>'
+  config/routes.rb:1:in `<top (required)>'
+
+
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_source.erb (2.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_trace.html.erb (3.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/_web_console.html.erb (1.0ms)
+  Rendered D:/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/web-console-2.0.0/lib/action_dispatch/templates/rescues/diagnostics.html.erb within rescues/layout (49.0ms)

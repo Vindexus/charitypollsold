@@ -1,0 +1,8 @@
+= simple_form_for(@poll) do |f|
+	= render 'shared/error_messages', object: f.object
+	= f.input :question
+	.answers
+		-(1..4).each do |i|
+			= f.input :answer, multiple: true, label: "#{i}.", input_html: {id: "answer_#{i}", name: "poll[answer][]"}
+
+	= f.button :button
