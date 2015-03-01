@@ -1,13 +1,11 @@
 Rails.application.routes.draw do
   mount RailsAdmin::Engine => '/admin', as: 'rails_admin'
   devise_for :users
-  resources :answers
-
   resources :polls
 
   get 'welcome/faq'
 
-  post 'polls/submitvote/:id' => 'polls#submit_vote', as: 'submit_vote'
+  post 'votes/create/:id' => 'votes#create', as: 'vote_create'
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

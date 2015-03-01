@@ -10,45 +10,32 @@ class PollsController < ApplicationController
   # GET /polls/1
   # GET /polls/1.json
   def show
-    @answer = @poll.answers.build
+    @vote_form = VoteForm.new
+    @vote_form.poll_id = @poll.id
   end
 
   # GET /polls/new
   def new
     @poll = Poll.new
-    @text_answers = ["","","",""]
+    @text_options = ["","","",""]
   end
 
   # GET /polls/1/edit
   def edit
   end
 
-  def submit_vote
-    @vote = Vote.new(params[:vote])
-    @vote.poll_id = @poll.id
-    respond_to do |format|
-      if @vote.save
-        format.html { redirect_to @poll, notice: 'Your vote as added' }
-        format.json { render :show, status: :created, location: @poll }
-      else
-        format.html { render :show }
-        format.json { render json: @vote.errors, status: :unprocessable_entity }
-      end
-    end
-  end
-
   # POST /polls
   # POST /polls.json
   def create
     @poll = Poll.new(poll_params)
-    @poll.param_answers = params[:text_answers]
+    @poll.param_options = params[:text_options]
 
     respond_to do |format|
-      if @poll.save && @poll.save_text_answers
+      if @poll.save && @poll.save_text_options
         format.html { redirect_to @poll, notice: 'Poll was successfully created.' }
         format.json { render :show, status: :created, location: @poll }
       else
-        @text_answers = @poll.text_answers
+        @text_options = @poll.text_options
         format.html { render :new }
         format.json { render json: @poll.errors, status: :unprocessable_entity }
       end
@@ -87,6 +74,6 @@ class PollsController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def poll_params
-      params.require(:poll).permit(:question, :is_closed, :closed_date)
+      params.require(:poll).permit(:question)
     end
 end

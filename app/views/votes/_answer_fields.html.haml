@@ -1,6 +1,0 @@
-%ul.answer-options
-	-poll.answers.each do |a|
-		-unless a.id.blank?
-			%li
-				%input{type: "radio", value: a.id, id: "answer-#{a.id}", name: "vote[answer_id]"}
-				%label{"for" => "answer-#{a.id}"}= a.answer

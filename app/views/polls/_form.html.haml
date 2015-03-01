@@ -1,10 +1,10 @@
 = simple_form_for(@poll) do |f|
 	= render 'shared/error_messages', object: f.object
 	= f.input :question
-	.answers
+	.options
 		-i = 0
-		-@text_answers.each do |t|
-			= f.input :text_answers, label: "#{i+1}.", input_html: {id: "answer_#{i}", name: "text_answers[#{i}]", value: t}
+		-@text_options.each do |t|
+			= f.input :text_options, label: "#{i+1}.", input_html: {id: "option_#{i}", name: "text_options[#{i}]", value: t}
 			-i = i + 1
 
 	= f.association :charity, label: "Default Charity"

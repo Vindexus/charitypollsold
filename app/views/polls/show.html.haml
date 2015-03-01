@@ -1,4 +1,15 @@
 %h1= @poll.question
-=simple_form_for @answer, url: submit_vote_path(@poll) do |f|
-	=render 'votes/answer_fields', {poll: @poll}
-	=f.button :button, "Vote"
+=simple_form_for @vote_form, url: vote_create_path(@poll) do |f|
+	=f.input :poll_id, as: "hidden"
+	= render 'shared/error_messages', object: @vote_form
+	= render 'votes/option_fields', {poll: @poll, option_id: @vote_form.option_id}
+
+	-if !user_signed_in?
+		=f.collection_radio_buttons :user_login_or_register, [["login", "I already have an account"],["register", "I am a new user"]], :first, :last
+
+		.user-fields
+			=f.input :user_email
+			=f.input :user_password
+			=f.input :user_password_confirmation
+
+	=f.button :button, user_signed_in? ? "Vote" : "Login & Vote"

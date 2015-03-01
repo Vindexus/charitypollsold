@@ -1,0 +1,6 @@
+%ul.option-options
+	-poll.options.each do |a|
+		-unless a.id.blank?
+			%li
+				%input{type: "radio", value: a.id, id: "option-#{a.id}", name: "vote_form[option_id]", checked: a.id.to_s == option_id}
+				%label{"for" => "option-#{a.id}"} #{a.name}

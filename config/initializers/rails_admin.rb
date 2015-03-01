@@ -1,6 +1,15 @@
 RailsAdmin.config do |config|
 
   ### Popular gems integration
+  config.model 'User' do
+    object_label_method do
+      :user_label_method
+    end
+  end
+
+  def user_label_method
+    "#{self.email}"
+  end
 
   ## == Devise ==
   config.authenticate_with do

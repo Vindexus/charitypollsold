@@ -1,6 +1,6 @@
 <p id="notice"><%= notice %></p>
 
-<h1>Listing Answers</h1>
+<h1>Listing Options</h1>
 
 <table>
   <thead>
@@ -12,13 +12,13 @@
   </thead>
 
   <tbody>
-    <% @answers.each do |answer| %>
+    <% @options.each do |option| %>
       <tr>
-        <td><%= answer.text %></td>
-        <td><%= answer.poll %></td>
-        <td><%= link_to 'Show', answer %></td>
-        <td><%= link_to 'Edit', edit_answer_path(answer) %></td>
-        <td><%= link_to 'Destroy', answer, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= option.text %></td>
+        <td><%= option.poll %></td>
+        <td><%= link_to 'Show', option %></td>
+        <td><%= link_to 'Edit', edit_option_path(option) %></td>
+        <td><%= link_to 'Destroy', option, method: :delete, data: { confirm: 'Are you sure?' } %></td>
       </tr>
     <% end %>
   </tbody>
@@ -26,4 +26,4 @@
 
 <br>
 
-<%= link_to 'New Answer', new_answer_path %>
+<%= link_to 'New Option', new_option_path %>
