@@ -1,15 +1,37 @@
+-content_for :title, @poll.question
 %h1= @poll.question
-=simple_form_for @vote_form, url: vote_create_path(@poll) do |f|
-	=f.input :poll_id, as: "hidden"
-	= render 'shared/error_messages', object: @vote_form
-	= render 'votes/option_fields', {poll: @poll, option_id: @vote_form.option_id}
+-if !@poll.has_voted(@user)
+	=simple_form_for @vote_form, url: vote_create_path(@poll) do |f|
+		=f.input :poll_id, as: "hidden"
+		= render 'shared/error_messages', object: @vote_form
+		= render 'votes/option_fields', {poll: @poll, option_id: @vote_form.option_id}
 
-	-if !user_signed_in?
-		=f.collection_radio_buttons :user_login_or_register, [["login", "I already have an account"],["register", "I am a new user"]], :first, :last
+		-if !user_signed_in?
+			=f.collection_radio_buttons :user_login_or_register, [["login", "I already have an account"],["register", "I am a new user"]], :first, :last
 
-		.user-fields
-			=f.input :user_email
-			=f.input :user_password
-			=f.input :user_password_confirmation
+			.user-fields
+				=f.input :user_email, label: "Email"
+				=f.input :user_password, label: "Password"
+				=f.input :user_password_confirmation, label: "Confirm Password"
 
-	=f.button :button, user_signed_in? ? "Vote" : "Login & Vote"
+		=f.button :button, (user_signed_in? ? "Vote" : "Login & Vote"), id: "submit-button"
+-else
+	.col-md-9
+		= render "results", poll: @poll
+	.col-md-3
+
+:javascript
+	$('body').ready(function () {
+		console.log("sup");
+		$('input[name="vote_form[user_login_or_register]"]').change(function () {
+			var val = $(this).val();
+			if(val == 'login') {
+				$('#submit-button').text('Login & Vote');
+				$('.vote_form_user_password_confirmation').hide();
+			}
+			else {
+				$('#submit-button').text('Register & Vote');
+				$('.vote_form_user_password_confirmation').show();
+			}
+		}).trigger('change');
+	});

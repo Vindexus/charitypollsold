@@ -1,0 +1,15 @@
+-results = poll.results
+-bar_classes = ['info','success','','warning','danger']
+.poll-results
+	%ol.results
+		- i = -1
+		-results.each do |r|
+			- i += 1
+			%li.result
+				.name= r[:name]
+				.numbers
+					%span.num-votes #{pluralize(r[:votes], 'vote')}
+					%span.percentage (#{r[:percentage].round(1)}%)
+				.progress
+					.progress-bar{role: "progressbar", style: "width: #{r[:percentage]}%;", "class" => "progress-bar-#{bar_classes[i]}"}
+	.vote-count Total Votes: #{poll.total_votes}

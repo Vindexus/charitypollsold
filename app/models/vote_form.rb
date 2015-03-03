@@ -1,31 +1,33 @@
 class VoteForm
   include ActiveModel::Model
 
-  attr_accessor :poll_id, :option_id, :user_email, :user_login_or_register, :user_password, :user_password_confirmation, :user_id
+  attr_accessor :poll_id, :option_id, :user_email, :user_login_or_register, :user_password, :user_password_confirmation, :user_id, :extra_errors
 
-  validates_presence_of :option_id
+  #validate :my_validate
 
-  validate :validate
+  validate :before_val
 
-  def validate
+  def before_val
+    extra_errors.each do |msg|
+      self.errors.add(:base, msg)
+    end
+
     vote = build_vote
-
     if !vote.valid?
       append_errors(vote)
     end
+  end
+
+  def my_validate
+    self.errors.add(:base, "CHeese")
   end
 
   def user_login_or_register
   	@user_login_or_register ||= 'register'
   end
 
-  def build_user
-    if self.user_id.blank?
-      user = User.new({email: self.user_email, password: self.user_password, password_confirmation: self.user_password_confirmation})
-    else
-      user = User.find_by_id(self.user_id)
-    end
-    return user
+  def user_params
+    {email: self.user_email, password: self.user_password, password_confirmation: self.user_password_confirmation}
   end
 
   def build_vote

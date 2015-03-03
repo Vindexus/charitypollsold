@@ -12,6 +12,7 @@ class PollsController < ApplicationController
   def show
     @vote_form = VoteForm.new
     @vote_form.poll_id = @poll.id
+    @page_title = @poll.question
   end
 
   # GET /polls/new
